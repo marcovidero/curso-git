@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "width": 190,
+  "height": 51,
+  "duration": 5.542769,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.329594,
+      "\u001b]777;notify;Command completed;su -\u0007\u001b]0;marco.videro@rbawsedesc03:~/Dropbox/Alura/curso-git\u0007\u001b]7;file://rbawsedesc03.tre-ba.jus.br/home/marco.videro/Dropbox/Alura/curso-git\u0007"
+    ],
+    [
+      0.001075,
+      "\u001b[0;38;5;231;48;5;31;1m marco.videro \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mDropbox \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mAlura \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mcurso-git \u001b[0;38;5;240;49;22m \u001b[0m"
+    ],
+    [
+      3.447347,
+      "l"
+    ],
+    [
+      0.088144,
+      "s"
+    ],
+    [
+      0.144029,
+      " "
+    ],
+    [
+      0.167994,
+      "-"
+    ],
+    [
+      0.183972,
+      "l"
+    ],
+    [
+      0.127904,
+      "a"
+    ],
+    [
+      0.199912,
+      "h"
+    ],
+    [
+      0.791646,
+      "\r\n"
+    ],
+    [
+      0.005427,
+      "total 12K\r\n"
+    ],
+    [
+      7.1e-05,
+      "drwxrwxr-x. 1 marco.videro marco.videro  84 mar 12 11:32 \u001b[0m\u001b[38;5;33m.\u001b[0m\r\ndrwxrwxr-x. 1 marco.videro marco.videro  24 mar  6 09:17 \u001b[38;5;33m..\u001b[0m\r\n-rw-rw-r--. 1 marco.videro marco.videro   0 mar 12 11:32 demo.cast\r\n-rw-rw-r--. 1 marco.videro marco.videro  34 mar  6 11:31 design.css\r\ndrwxrwxr-x. 1 marco.videro marco.videro 144 mar 12 10:11 \u001b[38;5;33m.git\u001b[0m\r\n"
+    ],
+    [
+      4.1e-05,
+      "-rw-rw-r--. 1 marco.videro marco.videro 781 mar  6 11:31 index.html\r\n-rw-rw-r--. 1 marco.videro marco.videro 110 mar  6 10:00 README.md\r\n"
+    ],
+    [
+      0.05024,
+      "\u001b]777;notify;Command completed;ls -lah\u0007\u001b]0;marco.videro@rbawsedesc03:~/Dropbox/Alura/curso-git\u0007\u001b]7;file://rbawsedesc03.tre-ba.jus.br/home/marco.videro/Dropbox/Alura/curso-git\u0007"
+    ],
+    [
+      0.00365,
+      "\u001b[0;38;5;231;48;5;31;1m marco.videro \u001b[0;38;5;31;48;5;240;22m \u001b[0;38;5;250;48;5;240m~ \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mDropbox \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;250;48;5;240mAlura \u001b[0;38;5;245;48;5;240;22m \u001b[0;38;5;252;48;5;240;1mcurso-git \u001b[0;38;5;240;49;22m \u001b[0m"
+    ]
+  ]
+}
